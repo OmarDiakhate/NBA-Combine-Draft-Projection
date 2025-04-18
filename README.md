@@ -4,6 +4,8 @@ This project analyzes historical NBA Combine data to build a predictive model fo
 
 ## Files
 - `NBAproject.ipynb`: Contains all stages of data cleaning, feature selection, model training, and evaluation.
+- `NBA_combine.csv` : Original NBA combine dataset including all anthropometric, strength, and agility measurements, as well as additional metrics that were calculated during the combine from 2000 to 2024.
+- `NBA_draft.csv` : Original NBA draft dataset including several different aspects of player data sorted by NBA draft order from the years 1989-2021.
 
 ## Project Overview
 - **Dataset**: Historical NBA Combine and game data including vertical leap, height, wingspan, points per game, assist per game, etc.
